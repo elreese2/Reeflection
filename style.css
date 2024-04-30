@@ -726,6 +726,10 @@ button.clicked {
         /* Add padding for better readability */
     }
 
+    .slides-container{
+        height: auto;
+    }
+
     .secondDiv .shopNowFontLightBlue {
         margin: 7px;
     }
