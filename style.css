@@ -17,6 +17,21 @@ body {
     background-color: #1e2150
 }
 
+p.IM-Fell-DW-Pica.firstItalicTxt2.lineSpace1 {
+    margin-top: 20px;
+    /* Or any other desired value */
+    margin-bottom: 20px;
+    /* Or any other desired value */
+}
+
+p.thinAesthet-nova.lightBluetxt.secondDivcontent {
+    margin-bottom: 25px;
+}
+
+span#slide-arrow-next.slide-arrow-prev {
+    transform: scale(2);
+}
+
 .thinAesthet-nova {
     font-family: "aesthet-nova", serif;
     font-weight: 300;
@@ -105,7 +120,7 @@ body {
 .thinTxt {
     font-size: 20px;
     color: #eae5cc;
-    margin-top: 7vh;
+    margin-top: 9vh;
 }
 
 .navTxt {
@@ -591,12 +606,10 @@ body {
 
 .lineSpace {
     height: 0vh;
-    line-height: 5vh;
 }
 
 .lineSpace1 {
     height: 0vh;
-    line-height: 5vh;
 }
 
 .topDiv {
@@ -726,7 +739,7 @@ button.clicked {
         /* Add padding for better readability */
     }
 
-    .slides-container{
+    .slides-container {
         height: auto;
     }
 
